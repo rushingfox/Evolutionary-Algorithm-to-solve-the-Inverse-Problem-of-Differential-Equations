@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EAforEllipse", "EAforEllipse\EAforEllipse.vcxproj", "{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EAforParabola", "EAforParabola\EAforParabola.vcxproj", "{313EC85F-86F8-4E94-B5C8-60236C20708A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Plotting", "Plotting\Plotting.pyproj", "{C04A0365-EE29-4E66-9AB3-EA92796497FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Debug|x64.ActiveCfg = Debug|x64
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Debug|x64.Build.0 = Debug|x64
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Debug|x86.Build.0 = Debug|Win32
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Release|x64.ActiveCfg = Release|x64
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Release|x64.Build.0 = Release|x64
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Release|x86.ActiveCfg = Release|Win32
+		{C1C5F77E-15AD-494E-81AA-2F1FB52B603D}.Release|x86.Build.0 = Release|Win32
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Debug|x64.ActiveCfg = Debug|x64
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Debug|x64.Build.0 = Debug|x64
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Debug|x86.ActiveCfg = Debug|Win32
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Debug|x86.Build.0 = Debug|Win32
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Release|x64.ActiveCfg = Release|x64
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Release|x64.Build.0 = Release|x64
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Release|x86.ActiveCfg = Release|Win32
+		{313EC85F-86F8-4E94-B5C8-60236C20708A}.Release|x86.Build.0 = Release|Win32
+		{C04A0365-EE29-4E66-9AB3-EA92796497FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04A0365-EE29-4E66-9AB3-EA92796497FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C04A0365-EE29-4E66-9AB3-EA92796497FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C04A0365-EE29-4E66-9AB3-EA92796497FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04A0365-EE29-4E66-9AB3-EA92796497FB}.Release|x64.ActiveCfg = Release|Any CPU
+		{C04A0365-EE29-4E66-9AB3-EA92796497FB}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3228E35-4209-4389-AC6C-43D0779FCFA6}
+	EndGlobalSection
+EndGlobal

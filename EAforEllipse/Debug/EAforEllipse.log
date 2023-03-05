@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforEllipse\GA.h(12,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforEllipse\GA.h(46,42): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  EAforEllipse.vcxproj -> C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\Debug\EAforEllipse.exe

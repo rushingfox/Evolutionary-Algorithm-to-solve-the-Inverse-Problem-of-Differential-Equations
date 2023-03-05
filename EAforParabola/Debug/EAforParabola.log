@@ -1,0 +1,10 @@
+﻿  GA.cpp
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforParabola\GA.h(12,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforParabola\GA.h(46,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforParabola\GA.cpp(14,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforParabola\GA.cpp(15,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforParabola\GA.h(12,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\EAforParabola\GA.h(46,41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  EAforParabola.vcxproj -> C:\Users\11385\OneDrive - whu.edu.cn\archive\毕设\FinalCodeOfDissertation\Debug\EAforParabola.exe
